@@ -9,7 +9,7 @@ b += a;
 console.log("resultat de a + b = " + b);
 */
 let aPerson = { 
-	name: 'Jean',
+	name: 'Paulin',
 	age: 35,
 	gender: 'masculin',
 	interest: ['musique', 'Jeux videos'],

@@ -18,6 +18,7 @@ aPerson.interest = ['musique', 'badminton'];
 aPerson.sayHello = function() {console.log('Bonjour ! Je suis ' + this.name + '.'); };
 
 aPerson.sayHello();
+console.log("Samir est présent avec nous.");
 
 const operand = 12;
 const operand2 = 45;

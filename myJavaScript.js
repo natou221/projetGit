@@ -18,7 +18,11 @@ aPerson.interest = ['musique', 'badminton'];
 aPerson.sayHello = function() {console.log('Bonjour ! Je suis ' + this.name + '.'); };
 
 aPerson.sayHello();
+// Ajouter un premier message indiquant que Samir est présent
 console.log("Samir est présent avec nous.");
+
+// Ajouter un deuxième message pour un autre affichage
+console.log("Nous allons bien avancer ensemble sur ce projet !");
 
 const operand = 12;
 const operand2 = 45;
